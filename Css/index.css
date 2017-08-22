@@ -131,3 +131,8 @@ a {
 .blue {
   color: #14213D !important;
 }
+#number{
+  background-color: transparent;
+  position: relative;
+  bottom: 10px;
+}
