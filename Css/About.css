@@ -1,16 +1,16 @@
+.prodtwo{
+  text-align: left;
+  position: relative;
+  display: inline-block;
+  margin: 0px 2% 80px 3%;
+  text-align: center;
+  width: 45%;
+  bottom: 20px;
+}
 body {
   background-color: #FFF;
   margin: 0;
   padding: 0;
-}
-
-#cover {
-  height: 900px;
-  position: relative;
-  top: -55px;
-  width: 100%;
-  background: url("http://1.bp.blogspot.com/-G1MuH3qBjng/Vj6iga9vCqI/AAAAAAAAar4/LJ1WKu_PiGM/s1600-r/Logo%2BNK.jpg") no-repeat ;
-  background-size: 1444px;
 }
 
 .navigation {
@@ -45,14 +45,6 @@ li {
   padding: 0px 50px;
 }
 
-.cover-content {
-  box-sizing: border-box;
-  margin: 0 auto;
-  position: relative;
-  text-align: center;
-  top: 280px;
-  width: 70%;
-}
 
 h1 {
   color: #FFF;
@@ -63,13 +55,6 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  color: #000;
-  font-family: 'Raleway', sans-serif;
-  font-size: 42px;
-  font-weight: 300;
-  text-align: center;
-}
 
 h3 {
   color: #14213D;
@@ -79,12 +64,6 @@ h3 {
   text-transform: uppercase;
 }
 
-h4 {
-  color: #FCA311;
-  font-family: 'Abel', sans-serif;
-  font-size: 24px;
-  margin: 0px 0px 50px 0px;
-}
 
 p {
   color: #333;
@@ -93,17 +72,6 @@ p {
   font-weight: 300;
 }
 
-a {
-  text-decoration: none;
-}
-
-.btn {
-  background-color: #14213D;
-  color: #FFF;
-  font-family: 'Amatic SC', cursive;
-  font-size: 26px;
-  padding: 14px;
-}
 
 .products {
   background: #EEEFF1;
@@ -120,8 +88,3 @@ a {
   text-align: center;
   width: 45%;
 }
-
-.product img {
-  width: 100%;
-}
-

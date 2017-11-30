@@ -59,7 +59,6 @@ li {
 
 h1 {
   color: #595959;
-  font-family: 'Amatic SC', cursive;
   font-size: 50px;
   line-height: 60px;
   padding: 20px 10px;
@@ -135,4 +134,12 @@ a {
   background-color: transparent;
   position: relative;
   bottom: 10px;
+}
+#cred{
+  font-size: 25px;
+  background: #EEEFF1;
+  box-sizing: border-box;
+  width: 98%;
+  margin: 20px auto;
+  padding: 20px 0px;
 }
