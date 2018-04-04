@@ -3,7 +3,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 #cover {
   height: 900px;
   position: relative;
@@ -12,7 +11,6 @@ body {
   background: url("file:///C:/Users/Packard%20Bell/Documents/Projects/NUBIAN-KUSH/Images/Logo_NK.jpg") no-repeat ;
   background-size: 1444px;
 }
-
 .navigation {
   background-color: #ffffff;
   overflow-y: auto;
