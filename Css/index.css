@@ -8,7 +8,7 @@ body {
   position: relative;
   top: 45px;
   width: 100%;
-  background: url("file:///C:/Users/Packard%20Bell/Documents/Projects/NUBIAN-KUSH/Images/Logo_NK.jpg") no-repeat ;
+  background: url(../Images/Logo_NK.jpg) no-repeat ;
   background-size: 1444px;
 }
 .navigation {
@@ -44,6 +44,7 @@ li {
   font-family: 'Amatic SC', cursive;
   font-size: 32px;
   padding: 0px 50px;
+  left: 50px;
 }
 
 .cover-content {
